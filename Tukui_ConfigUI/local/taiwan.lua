@@ -18,7 +18,6 @@
 	-- bags
 	TukuiL.option_bags = "背包"
 	TukuiL.option_bags_enable = "開啟整合背包"
-	TukuiL.option_bags_soulbag = "開啟術士靈魂石背包"
  
 	-- datatext
 	TukuiL.option_datatext = "資訊欄位"

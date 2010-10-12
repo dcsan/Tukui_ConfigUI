@@ -18,7 +18,6 @@
 	-- bags
 	TukuiL.option_bags = "Taschen"
 	TukuiL.option_bags_enable = "Aktiviere All-in-one Tasche"
-	TukuiL.option_bags_soulbag = "Zeige Seelentasche als Hexenmeister"
  
 	-- datatext
 	TukuiL.option_datatext = "Infotext"

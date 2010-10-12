@@ -18,7 +18,6 @@
 	-- bags
 	TukuiL.option_bags = "Bolsos"
 	TukuiL.option_bags_enable = "Habilitar todo-en-uno bolso"
-	TukuiL.option_bags_soulbag = "Brujo, enseñar bolso de fragments de almas"
  
 	-- datatext
 	TukuiL.option_datatext = "Texto de Data"

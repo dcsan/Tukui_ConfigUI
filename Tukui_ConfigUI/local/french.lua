@@ -18,7 +18,6 @@
 	-- bags
 	TukuiL.option_bags = "Sacs"
 	TukuiL.option_bags_enable = "Activer les sacs Tukui"
-	TukuiL.option_bags_soulbag = "Voir le sac d'ames (Démoniste)"
  
 	-- datatext
 	TukuiL.option_datatext = "Infos"

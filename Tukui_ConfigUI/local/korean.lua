@@ -18,7 +18,6 @@
 	-- bags
 	TukuiL.option_bags = "가방"
 	TukuiL.option_bags_enable = "단일가방을 사용"
-	TukuiL.option_bags_soulbag = "영혼석 가방을 사용"
  
 	-- datatext
 	TukuiL.option_datatext = "정보 글자"

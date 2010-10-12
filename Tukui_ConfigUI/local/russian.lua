@@ -18,7 +18,6 @@
 	-- bags
 	TukuiL.option_bags = "Сумки"
 	TukuiL.option_bags_enable = "Включить единую сумку"
-	TukuiL.option_bags_soulbag = "Показывать сумку душ Чернокнижников"
  
 	-- datatext
 	TukuiL.option_datatext = "Текст панелей"

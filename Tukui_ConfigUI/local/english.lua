@@ -19,7 +19,6 @@ TukuiL.option_merchant_autorepair = "Auto Repair items"
 -- bags
 TukuiL.option_bags = "Bags"
 TukuiL.option_bags_enable = "Enable all-in-one bag"
-TukuiL.option_bags_soulbag = "Warlock, show soul bag"
  
 -- datatext
 TukuiL.option_datatext = "Data Text"
