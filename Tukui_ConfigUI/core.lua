@@ -1,4 +1,6 @@
 -- This will filter everythin NON user config data out of TukuiDB
+-- DC customized version
+
 local ALLOWED_GROUPS = {
 	["general"]=1,
 	["unitframes"]=1,
